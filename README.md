@@ -26,10 +26,11 @@ Kurum kullanıcıları sisteme giriş yaptıkları andan itibaren otel, uçak, t
   - Kurum kullanıcı uçak arama formu
   - Kurum kullanıcı uçak listeleme/seçme formu
   - Kurum kullanıcı uçak rezervasyon form
-- Aşağıdaki bölümler için birer mockup çalışması oluşturulmalıdır.
+- Aşağıdaki bölümler için birer ekran taslak (mockup) çalışması oluşturulmalıdır. Taslak araçları için [DZone'un 27 Free Web UI Mockup Tools dokümanından](https://dzone.com/articles/27-open-source-web-ui-mockup-tools) yararlanılabilir.
   - Kurum yönetici hesabı hesap yönetimi
   - Kurum yönetici hesabı departman masraf bütçesi belirleme
   - Kurum yönetici hesabı masraf bütçesini aşan işlemleri onaylama
+- Açıkta kalan noktalar için kullanıcı görüşmesi yapılmış gibi hareket edilebilir, bu durumda yapılan varsayımlar gerçek yorumlarmış gibi analiz çıktısına eklenmelidir.
 
 
 ## Sorularınız
